@@ -1,0 +1,12 @@
+[server]
+headless = true
+port = 8501
+enableCORS = true
+enableXsrfProtection = true
+
+[theme]
+primaryColor = "#2e2e2e"  # Slightly lighter dark gray for primary
+backgroundColor = "#1f1f1f"  # Lighter dark background
+secondaryBackgroundColor = "#444444"  # Softened secondary background
+textColor = "#e0e0e0"  # Light text for readability
+font = "sans serif"
