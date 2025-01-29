@@ -3,9 +3,6 @@ import pandas as pd
 from datetime import datetime
 import json
 import streamlit as st
-import plotly.express as px
-import statsmodels.api as sm
-from pmdarima import auto_arima
 
 API_KEY = '05f031602f9e164084ccd6f8d44894eb'
 BASE_URL = 'https://api.stlouisfed.org/fred/'
